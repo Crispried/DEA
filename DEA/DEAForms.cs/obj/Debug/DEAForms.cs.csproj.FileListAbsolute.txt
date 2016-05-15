@@ -1,0 +1,17 @@
+C:\Users\Crispried\documents\visual studio 2015\Projects\DEA\DEAForms.cs\bin\Debug\DEAForms.cs.exe.config
+C:\Users\Crispried\documents\visual studio 2015\Projects\DEA\DEAForms.cs\bin\Debug\DEAForms.cs.exe
+C:\Users\Crispried\documents\visual studio 2015\Projects\DEA\DEAForms.cs\bin\Debug\DEAForms.cs.pdb
+C:\Users\Crispried\documents\visual studio 2015\Projects\DEA\DEAForms.cs\obj\Debug\DEAForms.cs.csprojResolveAssemblyReference.cache
+C:\Users\Crispried\documents\visual studio 2015\Projects\DEA\DEAForms.cs\obj\Debug\DEAForms.cs.Properties.Resources.resources
+C:\Users\Crispried\documents\visual studio 2015\Projects\DEA\DEAForms.cs\obj\Debug\DEAForms.cs.csproj.GenerateResource.Cache
+C:\Users\Crispried\documents\visual studio 2015\Projects\DEA\DEAForms.cs\obj\Debug\DEAForms.cs.exe
+C:\Users\Crispried\documents\visual studio 2015\Projects\DEA\DEAForms.cs\obj\Debug\DEAForms.cs.pdb
+C:\Users\Crispried\documents\visual studio 2015\Projects\DEA\DEAForms.cs\obj\Debug\DEAForms.cs.dea.resources
+C:\Users\Crispried\documents\visual studio 2015\Projects\DEA\DEAForms.cs\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\Crispried\documents\visual studio 2015\Projects\DEA\DEAForms.cs\bin\Debug\NMath.dll
+C:\Users\Crispried\documents\visual studio 2015\Projects\DEA\DEAForms.cs\bin\Debug\NMathChartMicrosoft.dll
+C:\Users\Crispried\documents\visual studio 2015\Projects\DEA\DEAForms.cs\bin\Debug\NMath.xml
+C:\Users\Crispried\documents\visual studio 2015\Projects\DEA\DEAForms.cs\bin\Debug\NMathChartMicrosoft.xml
+D:\Ruslan\University\Course Work\DEA\DEAForms.cs\bin\Debug\DEAForms.cs.exe.config
+D:\Ruslan\University\Course Work\DEA\DEAForms.cs\obj\Debug\DEAForms.cs.exe
+D:\Ruslan\University\Course Work\DEA\DEAForms.cs\obj\Debug\DEAForms.cs.pdb

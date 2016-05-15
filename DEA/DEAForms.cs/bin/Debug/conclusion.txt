@@ -1,0 +1,38 @@
+Effectives: 
+1 object. Its coefficient of efficiency is 1.
+
+Its solution is [ 0,110888888888889 0,0001 0,0001 0,0001 0,0713928571428571 ].
+
+Its dual solution is [ 1 0 0 1 0 0 0 0 0 ].
+
+
+3 object. Its coefficient of efficiency is 1.
+
+Its solution is [ 0,0998146153846154 0,0666046153846154 0,0001 0,0001 0,083275 ].
+
+Its dual solution is [ 0 0 1 1 0 0 0 0 0 ].
+
+
+Not effecive:
+2 object. Its coefficient of efficiency is 0,773030051282051.
+
+Its solution is [ 0,0798206153846154 0,053275282051282 0,0001 0,0001 0,0666133333333333 ].
+
+Its dual solution is [ 0,261538461538462 0 0,661538461538462 0,773333333333333 0 0 2,78461538461538 0,248205128205128 0 ].
+
+
+Conclusion: 
+
+
+For 2 object avarage entry vector is [ 5,93846153846154 11,6 ].
+
+For 2 object avarage exit vector is [ 5 7 12,7846153846154 ].
+
+So these avarage vectors of each object allows us to say: 
+
+
+Object number 2 with entries [ 6,18424041025641 11,5954507692308 ] will produce the same exits.
+
+Object number 2 has quantitive inefficiency = [ 0 0 2,78461538461539 ].
+
+
